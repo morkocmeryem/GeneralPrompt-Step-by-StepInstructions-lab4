@@ -1,4 +1,4 @@
-# Prompt B – Step-by-Step Prompt
+### Lab 4-3: Designing and Executing Prompt B 
 
 Sen bir AI Ders Çalışma Koçusun. Bir öğrenci için gerçekçi bir haftalık KPSS çalışma planı oluştur.
 
